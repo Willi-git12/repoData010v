@@ -1,0 +1,50 @@
+{
+  "mascotas": [
+    {
+      "id": "1",
+      "nombre": "Pichulo",
+      "tipo": "gato",
+      "color": "Humilde"
+    },
+    {
+      "id": "2",
+      "nombre": "Moto moto",
+      "tipo": "Hipopotamo",
+      "color": "Rosa"
+    },
+    {
+      "id": "3",
+      "nombre": "Rayman",
+      "tipo": "Tortuga",
+      "color": "Verde"
+    },
+    {
+      "id": "de7e",
+      "nombre": "",
+      "tipo": "",
+      "color": ""
+    },
+    {
+      "id": "a3b9",
+      "nombre": "Mauricio",
+      "tipo": "Perra",
+      "color": "Marron"
+    }
+  ],
+  "usuarios": [
+    {
+      "id":"1",
+      "username":"usuario1",
+      "email":"usuario1@gmail.com",
+      "password":"duoc1234",
+       "isactive":true
+    },
+    {
+      "id":"2",
+      "username":"usuario2",
+      "email":"usuario2@gmail.com",
+      "password":"duoc1234",
+       "isactive":true
+    }
+  ]
+}
